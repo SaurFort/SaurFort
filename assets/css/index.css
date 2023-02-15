@@ -11,6 +11,9 @@
     .topnav {
       background-color: #333;
       overflow: hidden;
+      right: 0;
+      left: auto;
+      text-align: right;
     }
     
       .topnav a {
