@@ -1,6 +1,1 @@
-portfolio/front/package-lock.json
-portfolio/front/node_modules
-portfolio/front/.DS_Store
-portfolio/front/dist
-portfolio/front/dist-ssr
-portfolio/front/*.local
+portfolio/vendor

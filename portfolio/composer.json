@@ -1,0 +1,16 @@
+{
+    "name": "saurfort/portfolio",
+    "description": "The portfolio of SaurFort",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Saurfort\\Portfolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SaurFort",
+            "email": "contact@saurfort.fr"
+        }
+    ]
+}
