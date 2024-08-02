@@ -1,5 +1,10 @@
+# Hi everyone 👋
+My name is Nathan but I'm knowed at SaurFort. I'm a young french developper and I spend my free time in development and streaming.
+I code website in majority but I try to code many different things.
 
-### Hi everyone 👋
+## My skills
+[My Skills](https://skillicons.dev/icons?i=html,css,php,sql)
+
 <img align="left" alt="SaurFort Stats" src="https://github-readme-stats.vercel.app/api?username=SaurFort&show_icons=true&count_private=true&title_color=ecfffd&text_color=0a8cf2&icon_color=bf3aff&border_color=161b22&bg_color=0d1117#gh-dark-mode-only" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurFort&count_private=true&title_color=ecfffd&text_color=0a8cf2&icon_color=bf3aff&border_color=161b22&bg_color=0d1117&langs_count=10" />
 <picture>
