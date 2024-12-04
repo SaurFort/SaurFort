@@ -5,6 +5,7 @@ I code website in majority but I try to code many different things.
 ## My skills
 *I don't know everything on these technologies*
 <img src="https://skillicons.dev/icons?i=html,css,php,java,discord," />
+
 Otherwise, I'm learning
 <img src="https://skillicons.dev/icons?i=svelte,mysql" />
 
