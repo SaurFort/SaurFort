@@ -1,13 +1,13 @@
 # Hi everyone 👋
-My name is Nathan but I'm knowed at SaurFort. I'm a young french developper and I spend my free time in development and streaming.
-I code website in majority but I try to code many different things.
+My name is Nathan, but I'm known as SaurFort. I'm a young French developer, and I spend my free time coding and streaming.
+I mainly code websites, but I try to explore different types of development.
 
 ## My skills
-*I don't know everything on these technologies*
+*I don't know everything about these technologies*
 
 <img src="https://skillicons.dev/icons?i=html,css,php,java,discord," />
 
-Otherwise, I'm learning
+Otherwise, I'm learning:
 
 <img src="https://skillicons.dev/icons?i=svelte,mysql" />
 
