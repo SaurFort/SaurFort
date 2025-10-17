@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaurFort&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaurFort&theme=blueberry&hide_border=true)<br/>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=SaurFort&theme=blueberry&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurFort&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!--### ✍️ Random Dev Quote
@@ -24,8 +24,6 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img align="left" alt="SaurFort Stats" src="https://github-readme-stats.vercel.app/api?username=SaurFort&show_icons=true&count_private=true&title_color=ecfffd&text_color=0a8cf2&icon_color=bf3aff&border_color=161b22&bg_color=0d1117#gh-dark-mode-only" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurFort&count_private=true&title_color=ecfffd&text_color=0a8cf2&icon_color=bf3aff&border_color=161b22&bg_color=0d1117&langs_count=10" />
 <picture>
   <img src="https://raw.githubusercontent.com/SaurFort/SaurFort/refs/heads/output/github-contribution-grid-snake-dark.svg">
 </picture>
