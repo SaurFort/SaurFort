@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on MixHeberg a french hosting provider.<br>💻I'm looking for open source project that I can maybe help.<br>🌱I'm currently learning Laravel and Symfony.<br>Fun fact, I love to code 🤡
+🔭I'm currently working on MixHeberg a french hosting provider.<br>💻I'm looking for open source project that I can maybe help.<br>🌱I'm currently learning Laravel.
 
 
 ## 🌐 Socials:
